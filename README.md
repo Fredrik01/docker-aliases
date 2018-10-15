@@ -15,20 +15,9 @@ But this repository contains some aliases to "replace" the main command:
 
 You can use these commands:
 
- * ruby
- * rails
- * php
  * node
  * npm
- * coffee ( coffeescript )
- * python ( python 3.4 )
- * python2.7
- * django-admin.py
- * nginx
- * redis-cli
- * redis-server
- * postgres
- * psql
+ * php
  * ... more! See [aliases.sh](aliases.sh) file!
 
 ## How to use
