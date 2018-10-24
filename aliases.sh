@@ -8,6 +8,7 @@ function docker_alias() {
 # Javascript
 alias node="docker_alias /directory node node"
 alias npm="docker_alias /directory node npm"
+alias yarn="docker_alias /directory node yarn"
 
 # PHP
 alias php="docker_alias /directory php:7.2-alpine php"
